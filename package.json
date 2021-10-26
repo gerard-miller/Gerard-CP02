@@ -1,0 +1,24 @@
+{
+  "name": "gerard-cp02",
+  "version": "1.0.0",
+  "description": "gerard-cp02",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerard-miller/Gerard-CP02.git"
+  },
+  "author": "gerard-miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gerard-miller/Gerard-CP02/issues"
+  },
+  "homepage": "https://github.com/gerard-miller/Gerard-CP02#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.4",
+    "jest": "^27.3.1"
+  }
+}
